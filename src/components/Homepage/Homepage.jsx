@@ -7,6 +7,7 @@ const Homepage = () => {
         <div>
             <Banner/>
             <About/>
+            <About/>
      
         </div>
     );

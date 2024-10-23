@@ -18,13 +18,6 @@ const Banner = () => {
               <h1 className="text-5xl font-bold">{banner.title}</h1>
               <p>{banner.description}</p>
               <button className="btn btn-primary mr-4">Discover More</button>
-              <button className="btn btn-primary mr-4">Discover More</button>
-              <button className="btn btn-primary mr-4">Discover More</button>
-              <button className="btn btn-primary mr-4">Discover More</button>
-              <button className="btn btn-primary mr-4">Discover More</button>
-              <button className="btn btn-primary mr-4">Discover More</button>
-              <button className="btn btn-primary mr-4">Discover More</button>
-              <button className="btn btn-primary mr-4">Discover More</button>
               <button className="btn btn-outline text-white">Latest Project</button>
               </div>
             </div>

@@ -19,6 +19,11 @@ const Banner = () => {
               <p>{banner.description}</p>
               <button className="btn btn-primary mr-4">Discover More</button>
               <button className="btn btn-outline text-white">Latest Project</button>
+              <button className="btn btn-outline text-white">Latest Project</button>
+              <button className="btn btn-outline text-white">Latest Project</button>
+              <button className="btn btn-outline text-white">Latest Project</button>
+              <button className="btn btn-outline text-white">Latest Project</button>
+              <button className="btn btn-outline text-white">Latest Project</button>
               </div>
             </div>
             <div className="absolute flex justify-between transform bottom-12 right-12">
